@@ -3,6 +3,7 @@ An end-to-end analysis and visualization of Amazon Diwali 2025 sales data, featu
 Technical Report on Amazon-Diwali-Sales-2024-Analysis
 
 <img width="1314" height="541" alt="Dashboard of amazon-diwali-sales-2025-analysis" src="https://github.com/user-attachments/assets/49f369ce-8c86-4626-9b3a-2fb7d6bc6349" />
+<img width="1314" height="541" alt="s d 9" src="https://github.com/user-attachments/assets/f3169e1a-658d-4f8d-bc0d-81d08fad0d41" />
 
 Introduction
 This report summarizes an analysis of Amazon — Diwali Product Sales for 2025. The dataset (downloaded from Kaggle) was cleaned and analyzed in Excel, and the results are presented as a dashboard (screenshot provided). The goal of this work was to turn raw order-level data into actionable insights about sales, customer behavior, delivery performance and top products during the Diwali/festival period.
